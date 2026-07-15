@@ -1,2 +1,4 @@
-# Opus_Magnus
-My solutions and iterations to Opus Magnus Puzzles
+# Opus_Magnum
+My solutions and iterations to Opus Magnum Puzzles
+
+Journey started 14/07/2026
